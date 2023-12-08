@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cat And Dog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="anm_1">Kucing persia</string>
+    <string name="anm_2">Maine Coon</string>
+    <string name="anm_3">Bengal cat</string>
+    <string name="anm_4">Scottish Fold</string>
+    <string name="anm_5">Sphynx cat</string>
+    <string name="anm_6">Golden Retriever</string>
+    <string name="anm_7">Bulldog</string>
+    <string name="anm_8">Siberian Husky</string>
+
+    <string name="desk_1">ras kucing domestik berbulu panjang dengan karakter wajah bulat dan moncong pendek.</string>
+    <string name="desk_2">ras kucing peliharaan berukuran besar. Ini adalah salah satu ras alami tertua di Amerika Utara.</string>
+    <string name="desk_3">ras kucing peliharaan yang dihasilkan dari persilangan kucing macan tutul Asia dengan kucing domestik, khususnya Mau Mesir tutul.</string>
+    <string name="desk_4">ras kucing domestik dengan mutasi gen dominan alami yang mempengaruhi tulang rawan di seluruh tubuh, menyebabkan telinga "melipat".</string>
+    <string name="desk_5">dikenal sebagai Sphynx Kanada, adalah jenis kucing yang dikenal tidak memiliki bulu.</string>
+    <string name="desk_6">Golden Retriever adalah jenis anjing retriever Skotlandia berukuran sedang.</string>
+    <string name="desk_7">anjing jenis mastiff asal Inggris. Ia mungkin juga dikenal sebagai Bulldog Inggris atau Bulldog Inggris.</string>
+    <string name="desk_8">Siberian Husky adalah jenis anjing kereta luncur berukuran sedang</string>
+
+</resources>
